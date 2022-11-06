@@ -1,4 +1,4 @@
-# 基于PaddleOCR OpenCV FastApi
+# 基于PaddleOCR OpenCV FastApi的 身份证信息识别 和 身份证头像提取 工具
 
 # Docker使用
 
